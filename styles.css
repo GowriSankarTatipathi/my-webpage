@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Product Roboto&display=swap');
+
+body {
+    background-color: #5c1616;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1, h2 {
+    margin: 20px;
+    padding: 10px;
+}
+
+h1 {
+    border: 3px solid #333;
+    text-align: center;
+    color: rgb(0, 139, 97);
+}
+
+h2 {
+    color: rgb(134, 139, 0);
+}
+
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+
+ol li {
+    color: rgb(0, 128, 60);
+}
+
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(255, 123, 0);
+}
+
+a:hover {
+    color: rgb(0, 255, 34);
+}
+
+
+img {
+    border-radius: 10px;
+}
+
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
